@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Automaton and Web development .
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 💞️ I’m looking to collaborate on some open source projects.
-- 📫 How to reach me divyanshu1447@gmail.com
+- 📫 How to work with me on [Fiverr](https://www.fiverr.com/creativemind111) and [Upwork](https://www.upwork.com/freelancers/~017345a6de85fb163d).
+- 
 
 Hope to see you soon!
